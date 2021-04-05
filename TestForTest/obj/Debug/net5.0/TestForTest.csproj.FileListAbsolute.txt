@@ -1,0 +1,16 @@
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.exe
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.deps.json
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.runtimeconfig.json
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.runtimeconfig.dev.json
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.dll
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\ref\TestForTest.dll
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\bin\Debug\net5.0\TestForTest.pdb
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.csprojAssemblyReference.cache
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.AssemblyInfoInputs.cache
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.AssemblyInfo.cs
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.dll
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\ref\TestForTest.dll
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.pdb
+C:\Users\erayb\Desktop\Repos\Programming\C#\TestForTest\TestForTest\obj\Debug\net5.0\TestForTest.genruntimeconfig.cache
